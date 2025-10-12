@@ -24,11 +24,9 @@
 }
 
 .header__links-list-item {
-    justify-self: end;
-}
-.header__links-list-item {
     list-style: circle;
     align-items: center;
+    justify-self: end;
 }
 
 .header__links-list-item_no-bullit {
