@@ -28,11 +28,8 @@
 }
 .header__links-list-item {
     list-style: circle;
-}
-.header__links-list-item {
     align-items: center;
 }
-
 
 .header__links-list-item_no-bullit {
     list-style: none;
@@ -245,11 +242,10 @@
     grid-template-columns: 1fr 1fr 1fr;
     margin: 0px 50px 82px 50px;
 }
-.footer .address{
+.footer .address {
     max-width: 265px;
     font-size: 18px;
     font-style: normal;
-    max-width: 256px;
     line-height: 1.35;
 }
 .footer__menu {
