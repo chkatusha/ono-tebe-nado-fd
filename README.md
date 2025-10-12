@@ -1,4 +1,1 @@
-Проект "Оно тебе надо"
-Используемые технологии
-- HTML
-- CSS
+https://github.com/chkatusha/ono-tebe-nado-fd
