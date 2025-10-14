@@ -1,1 +1,1 @@
-https://github.com/chkatusha/ono-tebe-nado-fd и
+https://github.com/chkatusha/ono-tebe-nado-fd
